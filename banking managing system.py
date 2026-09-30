@@ -1,6 +1,6 @@
 #my banking program
 # i want to check merge commit 
-balance=0
+balance=100
 while True:
     print("-----BANKING MANAGEMENT SYSTEM------")
     print("1. Deposit ")
