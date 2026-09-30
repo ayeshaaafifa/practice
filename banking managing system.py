@@ -1,6 +1,10 @@
 #my banking program
 # i want to check merge commit 
+<<<<<<< HEAD
 balance=500
+=======
+balance=100
+>>>>>>> 27e4b9106d2bc34cfceb079066223ef9a0b9c73c
 while True:
     print("-----BANKING MANAGEMENT SYSTEM------")
     print("1. Deposit ")
