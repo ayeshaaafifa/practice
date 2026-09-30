@@ -24,3 +24,4 @@ while True:
         print("Thnak You for Using the banking mangement system")
     else:
         print("Invalid Input")
+        print("wrong Input")
